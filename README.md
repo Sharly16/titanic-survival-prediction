@@ -75,16 +75,20 @@ A public Gradio app link will appear — click it to interact with the model.
 | Embarked | Southampton |
 
 📈 Model Evaluation
+
 Accuracy: ~82%
 
 Classification Report and Confusion Matrix included in the notebook output.
 
 
 🤝 Contributing
+
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
 📜 License
+
 This project is open-source and free to use under the MIT License.
 
 🙋‍♂️ Author
+
 SHARLY PRICILLA A
